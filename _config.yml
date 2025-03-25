@@ -37,7 +37,7 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-orcid: https://orcid.org/0000-0001-9770-6162
+orcid_id: https://orcid.org/0000-0001-9770-6162
 mastodon: https://fediscience.org/home
 #linkedin: mylinkedin
 github: Mcotsar
