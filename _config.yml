@@ -1,6 +1,6 @@
 # main text of home
 title: María Coto-Sarmiento
-bio: Computational Archaeologist
+bio: Computational Archaeologist | Consejo Superior de Investigaciones Científicas (CSIC)
 
 # twitter summary info
 description: 
@@ -39,11 +39,11 @@ twitter: Mcotsar
 #instagram: myinstagram
 orcid: 0000-0001-9770-6162
 mastodon: Mcotsar
-#linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/maria-coto-sarmiento-753b88174/
 github: Mcotsar
 email: mcotsar@gmail.com
 medium_username: Mcotsar
-work_url: https://www.tse-fr.eu/people/jorge-pena
+work_url: 
 
 
 authors:
