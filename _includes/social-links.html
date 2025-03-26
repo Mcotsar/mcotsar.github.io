@@ -7,6 +7,12 @@
         </a>
     {% endif %}
 
+    {% if site.scholar %}
+    <a class="link" data-title="scholar.google.com/citations?user={{ site.scholar }}" href="https://scholar.google.com/citations?user={{ site.scholar }}" target="_blank" rel="noopener" alt="anchor link for Google Scholar" aria-label="anchor link for Google Scholar">
+        <i class="fa-brands fa-google"></i>
+    </a>
+    {% endif %}
+
     {% if site.orcid %}
     <a class="link" data-title="orcid.org/{{ site.orcid }}" href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener" alt="anchor link for ORCID" aria-label="anchor link for ORCID">
         <i class="fa-brands fa-orcid"></i>
