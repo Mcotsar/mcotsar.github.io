@@ -51,6 +51,12 @@ email: mcotsar@gmail.com
 medium_username: Mcotsar
 work_url: 
 
+social:
+  - name: "orcid"
+    url: "https://orcid.org/0000-0001-9770-6162"
+    icon: "fab fa-orcid"  # Forzar icono FontAwesome
+
+
 
 authors:
   johndoe:
