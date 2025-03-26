@@ -27,8 +27,9 @@ layout: page
 	<li>TDD e Continuous Integration</li> -->
 </ul>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/">Mcotsar</a></li>
 </ul>
+-->
