@@ -6,7 +6,7 @@ layout: page
 
 <p>I am a computational archaeologist dedicated to unraveling the cultural dynamics of past societies by combining the humanities with cutting-edge computational techniques. My work is based on an interdisciplinary approach, connecting anthropology, ecology, and computer science to delve into the complexities of human behavior in ancient times.</p>
 
-<p> Besides that, I love cinema, reading and walking around different places and I have a personal [blog](https://mcotsar.medium.com/) (in Spanish) where I share my thoughts about academia, mental health and other stuff. </p>
+<p> Besides that, I love cinema, reading and walking around different places and I have a personal \[blog\](https://mcotsar.medium.com/) (in Spanish) where I share my thoughts about academia, mental health and other stuff. </p>
 
 <h2>Skills</h2>
 
