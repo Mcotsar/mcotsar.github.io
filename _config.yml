@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://scholar.google.es/citations?user=edhP6ewAAAAJ&hl=es
 
 url: https://mcotsar.github.io
 # your url: https://USERNAME.github.io
