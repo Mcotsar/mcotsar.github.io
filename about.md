@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am a computational archaeologist specialising in studying cultural dynamics in past societies using a combination of Humanities and computational research methods. My research focused on identifying the dynamics of social learning processes, with the aim of understanding how individuals acquired and transmitted technical skills and how they evolved. I mostly used during my PhD quantitative methods and modelling to explore the innovation processes behind social learning in pottery production. My research requires a profoundly interdisciplinary approach through the combination of different fields, such as anthropology, ecology and computer science.</p>
+<p>I am a computational archaeologist dedicated to unraveling the cultural dynamics of past societies by combining the humanities with cutting-edge computational techniques. My work is based on an interdisciplinary approach, connecting anthropology, ecology, and computer science to delve into the complexities of human behavior in ancient times.</p>
 
-<p> hihi </p>
+<p> Besides that, I love cinema, reading and walking around different places </p>
 
 <h2>Skills</h2>
 
@@ -19,7 +19,7 @@ layout: page
 	<li>AngularJS - ReactJS</li>
 	<li>Grunt - Gulp - Yeoman</li> -->
 	<li>Git</li>
-	<li>R program</li>
+	<li>R </li>
 	<li>Python</li>
 	<!--<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
