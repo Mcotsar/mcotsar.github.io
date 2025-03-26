@@ -42,7 +42,7 @@ disqus:
 #facebook: myfacebook
 #twitter: Mcotsar
 #instagram: myinstagram
-orcid: 0000-0001-9770-6162
+orcid: "https://orcid.org/0000-0001-9770-6162"
 mastodon: Mcotsar
 linkedin: maria-coto-sarmiento-753b88174
 github: Mcotsar
