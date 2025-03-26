@@ -41,7 +41,8 @@ disqus:
 #facebook: myfacebook
 #twitter: Mcotsar
 #instagram: myinstagram
-orcid: 0000-0001-9770-6162
+orcid: "0000-0001-9770-6162"
+scholar: "edhP6ewAAAAJ&hl=es"
 mastodon: Mcotsar
 linkedin: maria-coto-sarmiento-753b88174
 github: Mcotsar
