@@ -20,9 +20,9 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-cv: true
-cv-external: true
-cv-url: https://drive.google.com/file/d/1F4QTA6T9prAi56lDo3LQGYKfxRGcPs4W/view?usp=sharing
+resume: true
+resume-external: true
+resume-url: https://drive.google.com/file/d/1F4QTA6T9prAi56lDo3LQGYKfxRGcPs4W/view?usp=sharing
 
 url: https://mcotsar.github.io
 # your url: https://USERNAME.github.io
